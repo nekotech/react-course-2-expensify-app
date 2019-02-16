@@ -93,6 +93,6 @@ export default class ExpenseForm extends React.Component {
           <button>Add Expense</button>
         </form>
       </div>
-    );
+    )
   }
 }
