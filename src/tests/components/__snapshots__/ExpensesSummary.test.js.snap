@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should correctly render ExpensesSummary with 1 expense 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
+
+exports[`should correctly render ExpensesSummary with multiple expense 1`] = `
+<ContextConsumer>
+  <Component />
+</ContextConsumer>
+`;
